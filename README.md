@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusluan25/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOic2D1QgyZPfrTW2dDCOow)
 
-![/Luanvinicius25V GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanvinicius25V&show_icons=true&theme=dark)
+![/Luanvinicius25V GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanvinicius25V&show_icons=true&theme=city_lights
 
 
 
